@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://aaron-lau.github.io/react-monster-robodex",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run-script build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
