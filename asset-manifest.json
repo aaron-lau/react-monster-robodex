@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-monsters-robodex/static/css/main.d761467a.chunk.css",
-    "main.js": "/react-monsters-robodex/static/js/main.ae1034c1.chunk.js",
-    "main.js.map": "/react-monsters-robodex/static/js/main.ae1034c1.chunk.js.map",
-    "runtime~main.js": "/react-monsters-robodex/static/js/runtime~main.2b145c2e.js",
-    "runtime~main.js.map": "/react-monsters-robodex/static/js/runtime~main.2b145c2e.js.map",
-    "static/js/2.3d8af1b9.chunk.js": "/react-monsters-robodex/static/js/2.3d8af1b9.chunk.js",
-    "static/js/2.3d8af1b9.chunk.js.map": "/react-monsters-robodex/static/js/2.3d8af1b9.chunk.js.map",
-    "index.html": "/react-monsters-robodex/index.html",
-    "precache-manifest.d59a82de0f4392084528fda30862b038.js": "/react-monsters-robodex/precache-manifest.d59a82de0f4392084528fda30862b038.js",
-    "service-worker.js": "/react-monsters-robodex/service-worker.js",
-    "static/css/main.d761467a.chunk.css.map": "/react-monsters-robodex/static/css/main.d761467a.chunk.css.map"
+    "main.css": "/react-monster-robodex/static/css/main.d761467a.chunk.css",
+    "main.js": "/react-monster-robodex/static/js/main.e00ecc1f.chunk.js",
+    "main.js.map": "/react-monster-robodex/static/js/main.e00ecc1f.chunk.js.map",
+    "runtime~main.js": "/react-monster-robodex/static/js/runtime~main.a76d1840.js",
+    "runtime~main.js.map": "/react-monster-robodex/static/js/runtime~main.a76d1840.js.map",
+    "static/js/2.3d8af1b9.chunk.js": "/react-monster-robodex/static/js/2.3d8af1b9.chunk.js",
+    "static/js/2.3d8af1b9.chunk.js.map": "/react-monster-robodex/static/js/2.3d8af1b9.chunk.js.map",
+    "index.html": "/react-monster-robodex/index.html",
+    "precache-manifest.5827be1287b85ab9c5af1d1c3af537d2.js": "/react-monster-robodex/precache-manifest.5827be1287b85ab9c5af1d1c3af537d2.js",
+    "service-worker.js": "/react-monster-robodex/service-worker.js",
+    "static/css/main.d761467a.chunk.css.map": "/react-monster-robodex/static/css/main.d761467a.chunk.css.map"
   }
 }
